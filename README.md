@@ -1,0 +1,1 @@
+# scaffolding with yeoman
