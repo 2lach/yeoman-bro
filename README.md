@@ -12,7 +12,7 @@ npm install -g yo 2lach-yeoman-generator
 
 ### scaffold dots
 
-makes a [.gitignore](generators/dots/templates/gitignore-template) and [.editorconfig](generators/dots/templates/editorconfig-template) in project-root
+creates a [.gitignore](generators/dots/templates/gitignore-template) and a [.editorconfig](generators/dots/templates/editorconfig-template) in project-root
 
 ```bash
 yo 2lach:dots
@@ -20,7 +20,7 @@ yo 2lach:dots
 
 ### scaffold linting
 
-makes a [.eslintrc.json](generators/linting/templates/eslintrc-template.json) [.prettierrc.json](generators/linting/templates/prettierrc-template.json) & [.prettierignore](generators/linting/templates/prettierignore-template) in project-root
+creates [.eslintrc.json](generators/linting/templates/eslintrc-template.json) [.prettierrc.json](generators/linting/templates/prettierrc-template.json) & [.prettierignore](generators/linting/templates/prettierignore-template) in project-root
 
 ```bash
 yo 2lach:linting
