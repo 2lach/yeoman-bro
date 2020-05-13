@@ -1,6 +1,4 @@
-# Yo bro
-
-## understanding yeoman by building a couple of generators
+# Scaffolding templates with yeoman
 
 ## setup it up
 
@@ -26,14 +24,5 @@ creates [.eslintrc.json](generators/linting/templates/eslintrc-template.json) [.
 yo 2lach:linting
 ```
 
-<!--
-### tests
 
-* wip
-
-### react component
-
-* wip
--->
-
-***Please note that this project is currently NOT on npmjs.org and these commands are just examples and will not work**
+***Please note that this project is currently NOT on npmjs.org and only local usage will work**
